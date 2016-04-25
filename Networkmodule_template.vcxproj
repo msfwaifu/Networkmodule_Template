@@ -175,6 +175,9 @@
     <ClInclude Include="Source\Configuration\Defines.h" />
     <ClInclude Include="Source\Configuration\Macros.h" />
     <ClInclude Include="Source\Configuration\Warnings.h" />
+    <ClInclude Include="Source\Servers\IServer.h" />
+    <ClInclude Include="Source\Servers\ITCPServer.h" />
+    <ClInclude Include="Source\Servers\IUDPServer.h" />
     <ClInclude Include="Source\Utilities\All.h" />
     <ClInclude Include="Source\Utilities\Binarymodification\Hooks\Hooking.h" />
     <ClInclude Include="Source\Utilities\Binarymodification\ImportAddressTable.h" />
@@ -193,6 +196,9 @@
     <ClCompile Include="Source\Utilities\Files\Filesystem.cpp" />
     <ClCompile Include="Source\Utilities\Strings\Debugstring.cpp" />
     <ClCompile Include="Source\Utilities\Strings\Variadicstring.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Networkmodule_template.licenseheader" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

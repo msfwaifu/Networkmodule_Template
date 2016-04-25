@@ -3,7 +3,7 @@
     License: LGPL 3.0
     Started: 2016-04-13
     Notes:
-        The entrypoint for this extension.
+        The entrypoint for this networkmodule.
 */
 
 #include <Configuration\All.h>
