@@ -5,7 +5,6 @@ This repository serves as a starting-point for new developers and includes:
 
 * A general directory structure to make your extension easy to read for other developers.
 * A general introduction to the AyriaNetwork system and general helper classes.
-* An introduction to the /Networkstorage/ directory layout.
 
 Extensionloading
 --
