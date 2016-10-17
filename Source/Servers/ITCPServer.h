@@ -1,6 +1,6 @@
 /*
     Initial author: (https://github.com/)Convery for Ayria.se
-    License: LGPL 3.0
+    License: MIT
     Started: 2016-4-24
     Notes:
         Buffered server with a callback on incoming data.

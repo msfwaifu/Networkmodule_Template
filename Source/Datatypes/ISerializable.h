@@ -1,6 +1,6 @@
 /*
     Initial author: (https://github.com/)Convery for Ayria.se
-    License: LGPL 3.0
+    License: MIT
     Started: 2016-4-25
     Notes:
         A basic datatype that can be serialized into a bytebuffer with ease.
