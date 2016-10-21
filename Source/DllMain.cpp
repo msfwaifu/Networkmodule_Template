@@ -7,6 +7,7 @@
 */
 
 #include "STDInclude.h"
+#include "Servers/All.h"
 #include <cstdarg>
 
 extern "C"
